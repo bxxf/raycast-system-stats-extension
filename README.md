@@ -1,3 +1,3 @@
-# System Stats
+# Raycast System Stats extension
 
-Shows information about system resources in menu bar (ie. CPU, memory utilization etc.)
+Raycast extension that shows information about system resources in menu bar (ie. CPU, memory utilization etc.)
