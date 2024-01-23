@@ -8,4 +8,4 @@ This project is not finished as there are some random issues with reactivity. Do
 
 Enable in Raycast like this:
 
-![Uploading sccccc.png…]()
+<img width="801" alt="sccccc" src="https://github.com/bxxf/raycast-system-stats-extension/assets/43238984/b4cd6b67-1666-4d08-a234-18f8035882c0">
