@@ -4,4 +4,4 @@
 
 This project is not finished as there are some random issues with reactivity. Do not hesitate to add PR if you find the solution.
 
-<img width="445" alt="screen" src="https://github.com/bxxf/raycast-system-stats-extension/assets/43238984/d3a3ed61-1fc5-43fa-934d-3ec1d2a5db92">
+<img width="445" alt="screen" src="https://github.com/bxxf/raycast-system-stats-extension/assets/43238984/0a05b6ae-2823-470f-9e0d-b81df0cb0fe4">
